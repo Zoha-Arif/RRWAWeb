@@ -17,6 +17,7 @@
     font-size: 55px; 
 }
 
+.topnav {
     background-color: #0d0d0d;
     overflow: hidden;
     font-family: 'Maven Pro', sans-serif;
@@ -59,6 +60,7 @@
     display: inline-block;
     font-size: 22px;
     margin: 4px 2px;
-    font-family: 'Fugaz One', cursive;
+    /* font-family: 'Fugaz One', cursive; */
+    font-family: 'Maven Pro', sans-serif;
     cursor: pointer;
   }
