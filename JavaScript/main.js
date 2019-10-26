@@ -1,4 +1,6 @@
 //Water Ripple Effect
+import $ from 'jquery'
+
 try {
     $(".automattic").ripples({
       resolution: 1080,
