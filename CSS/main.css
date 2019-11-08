@@ -178,3 +178,63 @@
   background: #3B5998;
   color: white;
 }
+
+.aboutTitle {
+    font-family: 'Fugaz One', cursive;
+    color:#020b2a;
+    font-size: 30px; 
+    z-index: 100;
+}
+
+.body_text {
+    font-family: 'Roboto', sans-serif;
+    color: black; 
+    font-size: 15px; 
+}
+
+.body_text_list {
+    font-family: 'Roboto', sans-serif;
+    color: black; 
+    font-size: 15px; 
+}
+
+#aboutTitle1 {
+    position: absolute;
+    top: 10%; 
+    left: 7%; 
+}
+
+#missionStatement {
+    position: absolute; 
+    top: 20%; 
+    left: 7%; 
+    width: 50%;
+}
+
+#aboutTitle2 {
+    position: absolute;
+    top: 35%; 
+    left: 7%; 
+}
+
+#thingsToDo {
+    position: absolute; 
+    top: 45%; 
+    left: 10%; 
+    width: 50%;   
+}
+
+ul, li { padding: 5px 0px; }
+
+#aboutTitle3 {
+    position: absolute;
+    top: 79%; 
+    left: 7%; 
+}
+
+#aboutRahway2 {
+    position: absolute; 
+    top: 88%; 
+    left: 7%; 
+    width: 50%; 
+}
