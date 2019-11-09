@@ -238,3 +238,39 @@ ul, li { padding: 5px 0px; }
     left: 7%; 
     width: 50%; 
 }
+
+#newsTitle {
+    position: absolute;
+    top: 10%; 
+    left: 7%; 
+}
+
+#containerOne {
+    position: absolute; 
+    top: 20%; 
+    left: 7%; 
+    width: 1400px; 
+}
+
+#oceanLogo {
+   width: 340px; 
+}
+
+.blog-text1 {
+    font-family: 'Roboto', sans-serif;
+    color: black; 
+    font-size: 15px; 
+}
+
+.blog-meta1 {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic; 
+    font-size: 18px; 
+}
+
+#newsArticle1 {
+    font-family: 'Signika', sans-serif;
+    color: black; 
+    font-size: 20px;
+    font-style: bold;  
+}
